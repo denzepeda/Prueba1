@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Guayaba Shop</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <main class="wrapper">
+    <section class="hero">
+      <h1>GUAYABA</h1>
+      <p class="subtitle">
+        Identidad que no se explica.<br>
+        Se reconoce.
+      </p>
+    </section>
+
+    <section class="center">
+      <div class="icon">🍈</div>
+      <p class="text">
+        Guayaba nace del barrio,  
+        pero no pide permiso.  
+        Es para quien sabe quién es.
+      </p>
+    </section>
+
+    <section class="action">
+      <a href="https://instagram.com" target="_blank">
+        Ver la marca
+      </a>
+    </section>
+
+    <footer>
+      Guayaba Shop ©
+    </footer>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
